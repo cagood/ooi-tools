@@ -1,0 +1,5 @@
+endpoint: ctdpf-j-cspp_telemetered
+instrument: ctdpf-j-cspp_telemetered
+pairs:
+- [11079364_PPD_CTD.txt, 11079364_PPD_CTD_telem.yml]
+resource: ctdpf_j/cspp/resource

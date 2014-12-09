@@ -1,0 +1,3 @@
+context,name,suffix,driver,sensor,regex,resource,timeout,rename,input1,output1,input2,output2,input3,output3,input4,output4,input5,output5,input6,output6,input7,output7
+ctdpf-j-cspp,ctdpf-j-cspp,recovered,/ctdpf_j/cspp/ctdpf_j_cspp_recovered_driver.py,XX00XXXX-XX00X-00-CTDPFR000,,ctdpf_j/cspp/resource,,,11079364_PPB_CTD.txt,11079364_PPB_CTD_recov.yml
+ctdpf-j-cspp,ctdpf-j-cspp,telemetered,/ctdpf_j/cspp/ctdpf_j_cspp_telemetered_driver.py,XX00XXXX-XX00X-00-CTDPFT000,,ctdpf_j/cspp/resource,,,11079364_PPD_CTD.txt,11079364_PPD_CTD_telem.yml
